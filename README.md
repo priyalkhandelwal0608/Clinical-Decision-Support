@@ -20,5 +20,5 @@ The project also features an interactive **Gradio web interface** for quick test
 ---
 
 ## Installation and run
-pip install -r requirements.txt
-python run app.py
+- pip install -r requirements.txt
+- python run app.py
